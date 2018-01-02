@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test repository22\r 22222",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farooqashrafqureshi/test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farooqashrafqureshi/test1/issues"
+  },
+  "homepage": "https://github.com/farooqashrafqureshi/test1#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
